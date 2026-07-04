@@ -2,9 +2,9 @@
 
 A dyno & tuning workbench for Forza Horizon 6 car data.
 
-DynoLab does no decryption or re-encrytion, Decrypt `gamedbRC.slt` with this tool -> https://github.com/DVS-code/Forza-Crypto-Tool
+DynoLab does no decryption or re-encrytion, decrypt and re-encrypt `gamedbRC.slt` with this tool -> https://github.com/DVS-code/Forza-Crypto-Tool
 ## How to use
-1. Download `FH6 DynoLab.exe` below
+1. Download `FH6 DynoLab.exe` from the latest release.
 2. Click **Load decrypted gamedb…** and pick your decrypted `gamedbRC.slt`.
 3. Pick a car, choose an option, edit, and hit **Confirm Edit** to save.
 4. Re-encrypt the database with your crypto tool.
