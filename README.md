@@ -1,4 +1,4 @@
-# FH6 DynoLab v1.0
+# FH6 DynoLab
 
 A dyno & tuning workbench for Forza Horizon 6 car data.
 
